@@ -7,7 +7,7 @@ The dataset can be found at: https://www.kaggle.com/zynicide/wine-reviews/data
 This is a Python script running 3.7, but will also run on 2.7.
 The libaries that are used to work with the data are Pandas and Matplotlib for visuals.
 
-# Visual
+# Subplots
 The first subplot shows the top 5 rated countries with the highest average wine points.
 
 The histogram displays the distribution of points which seems reasonable with the lower-bound at 80 out of 100.
